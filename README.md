@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=hon-mind&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Backend%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+Intelligent+Systems...;🐍+Python+%7C+TensorFlow+%7C+Scikit-learn;🌐+Django+%7C+Pandas+%7C+NumPy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🧠+Building+Intelligent+Systems...;🐍+Python+%7C+TensorFlow+%7C+Scikit-learn;🌐+Django+%7C+Pandas+%7C+NumPy)](https://git.io/typing-svg)
 
 <br/>
 
@@ -50,12 +50,7 @@ me.say_hi()
 
 > Watching a model learn — epoch by epoch, loss goes down, intelligence goes up.
 
-<!-- ✅ Reliable hosted GIFs via direct GitHub raw links or imgur -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Neural Network Training"/>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="AI Brain Animation"/>
+<img src="https://media1.tenor.com/m/ewe357VdCxMAAAAd/neural-network.gif" width="700" alt="Neural Network Training Animation"/>
 
 </div>
 
@@ -91,6 +86,7 @@ me.say_hi()
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
