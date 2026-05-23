@@ -132,6 +132,9 @@ me.say_hi()
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/topgun-hon/topgun-hon/snake-output/snake.svg" alt="Snake animation" />
+
+<br/>
 <!-- ✅ Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hon-mind&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&hide_border=true&radius=8" width="98%" alt="Contribution Graph"/>
 
