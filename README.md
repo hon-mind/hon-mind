@@ -106,7 +106,6 @@ me.say_hi()
 
 </div>
 
----
 
 ## 🏆 GitHub Trophies
 
@@ -118,7 +117,6 @@ me.say_hi()
 
 ## 🤖 AI Feature — Ask About My Work
 
-```
 💬 "What projects are you working on?"
 🤖  → Currently building ML pipelines for classification & NLP tasks
     → Developing Django REST APIs with AI-powered endpoints
