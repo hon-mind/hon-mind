@@ -160,6 +160,8 @@ me.say_hi()
 
 <img src="https://ghchart.rshah.org/58a6ff/hon-mind" alt="hon-mind's Github Contribution Chart"/>
 
+<img src="https://raw.githubusercontent.com/hon-mind/hon-mind/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
 </div>
 
 ---
