@@ -6,8 +6,16 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=🧠+Building+Intelligent+Systems...;🐍+Python+%7C+TensorFlow+%7C+Scikit-learn;🌐+Django+%7C+Pandas+%7C+NumPy)](https://git.io/typing-svg)
 
+<!-- Visitor Counter — LCD segmented display style -->
+<br/>
+
+### 👁️ Visitor Count
+
+<img src="https://profile-counter.glitch.me/hon-mind/count.svg" alt="Visitor Count" />
+
+<br/>
+
 <!-- Status badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=hon-mind&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/hon-mind?style=for-the-badge&color=58a6ff&labelColor=0d1117&label=FOLLOWERS)
 ![GitHub User's stars](https://img.shields.io/github/stars/hon-mind?style=for-the-badge&color=3fb950&labelColor=0d1117&label=STARS)
 
@@ -38,31 +46,60 @@ me.say_hi()
 
 ---
 
+## 🧠 Neural Network Training
+
+<div align="center">
+
+> Watching a model learn — epoch by epoch, loss goes down, intelligence goes up.
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWE3bGZrcGRtbGdlN3pkYm43ZTlhcGVhdHh6aXkwenJwcnpsb3J5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="480" alt="Neural Network Training Animation"/>
+
+<br/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTU5OXozemJsbnhrZXZibjdrb2h4bWx6OHZhZm82YXZhMDhjcm1veiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="480" alt="AI Deep Learning Visualization"/>
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### Core Languages & Frameworks
+<!-- App-icon style skill icons — rounded square format matching reference -->
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### ⚡ Core & Backend
+<br/>
 
-### Machine Learning & Data Science
+<a href="#"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" height="48" alt="Django"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/></a>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<br/><br/>
 
-### Tools & Platforms
+### 🤖 AI / Machine Learning
+<br/>
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" height="48" alt="Scikit-learn"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white&labelColor=150458" height="48" style="border-radius:12px" alt="Pandas"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white&labelColor=013243" height="48" style="border-radius:12px" alt="NumPy"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" width="48" height="48" alt="Jupyter"/></a>
+
+<br/><br/>
+
+### 🔧 Tools & Editors
+<br/>
+
+<a href="#"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/></a>&nbsp;
+<a href="#"><img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis"/></a>
 
 </div>
 
@@ -94,11 +131,6 @@ me.say_hi()
 
 ## 🤖 AI Feature — Ask About My Work
 
-> **🧠 Interactive AI Widget** — Add this to your README by embedding a GitHub Pages site or using a service like [readme-jokes](https://github.com/ABSphreak/readme-jokes).
-
-<!-- AI Chatbot Widget (embed via GitHub Pages) -->
-<!-- To activate: deploy the included index.html to GitHub Pages at hon-mind/hon-mind/docs/ -->
-
 ```
 💬 "What projects are you working on?"
 🤖  → Currently building ML pipelines for classification & NLP tasks
@@ -116,15 +148,11 @@ me.say_hi()
 
 <div align="center">
 
-<!-- Snake animation — enable via GitHub Actions (see setup below) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hon-mind/hon-mind/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hon-mind/hon-mind/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hon-mind/hon-mind/output/github-contribution-grid-snake.svg">
 </picture>
-
-<!-- Fallback activity calendar -->
-![Activity](https://ghchart.rshah.org/58a6ff/hon-mind)
 
 </div>
 
@@ -203,8 +231,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-### 2. Profile Views Counter
-Already embedded — auto-activates on first profile visit.
+### 2. Visitor Counter
+Uses `profile-counter.glitch.me` — auto-activates with green segmented LCD display (exactly like your screenshot) the moment anyone views your profile. No setup needed.
 
 ### 3. Stats Cards
 All stats cards auto-fetch from GitHub's API. No setup needed.
