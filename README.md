@@ -117,7 +117,6 @@ me.say_hi()
 
 </div>
 
----
 
 ## 🤖 AI Feature — Ask About My Work
 
@@ -132,7 +131,7 @@ me.say_hi()
     → End-to-end ML workflows: data → training → deployment
 ```
 
----
+
 
 ## 📈 Skill Proficiency
 
@@ -149,7 +148,7 @@ me.say_hi()
 
 </div>
 
----
+
 
 ## 🎯 Current Focus
 
@@ -160,7 +159,6 @@ me.say_hi()
 🤝 Open to       →  AI/ML collaborations & open source contributions
 ```
 
----
 
 ## 📫 Connect With Me
 
@@ -173,7 +171,6 @@ me.say_hi()
 
 </div>
 
----
 
 ## AI Training
 
