@@ -32,11 +32,11 @@ me.say_hi()
 ```
 
 ## 🛠️ Tech Stack
-
+<br/>
 <div align="center">
     
 ### 🤖 AI / Machine Learning
-
+<br/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow" />
   <img width="12" />
@@ -55,7 +55,7 @@ me.say_hi()
 <div align="center">
 
 ### ⚡ Core & Backend
-
+<br/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
@@ -77,7 +77,7 @@ me.say_hi()
 <br/>
 
 ### 🔧 Tools & Editors
-
+<br/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
   <img width="12" />
@@ -95,7 +95,7 @@ me.say_hi()
 </div>
 
 ## 📊 GitHub Analytics
-
+<br/>
 <div align="center">
 <br/>
 
@@ -110,7 +110,7 @@ me.say_hi()
 ---
 
 ## 🏆 GitHub Trophies
-
+<br/>
 <div align="left">
 
 <img src="https://github-profile-trophy.vercel.app/?username=hon-mind&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies"/>
@@ -118,7 +118,7 @@ me.say_hi()
 </div>
 
 ## 🤖 AI Feature — Ask About My Work
-
+<br/>
 ```
 💬 "What projects are you working on?"
 🤖  → Currently building ML pipelines for classification & NLP tasks
@@ -133,7 +133,7 @@ me.say_hi()
 ---
 
 ## 📈 Skill Proficiency
-
+<br/>
 <div align="center">
 
 | Skill | Proficiency | Level |
@@ -150,7 +150,7 @@ me.say_hi()
 ---
 
 ## 🎯 Current Focus
-
+<br/>
 ```
 🔬 Research      →  Large Language Models & Fine-tuning
 🏗️ Building      →  AI-powered Django REST APIs
@@ -161,7 +161,7 @@ me.say_hi()
 ---
 
 ## 📫 Connect With Me
-
+<br/>
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-hon--mind-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hon-mind)
@@ -174,7 +174,7 @@ me.say_hi()
 <div align="center">
 
 ## AI Training
-
+<br/>
 <div align="center">
 
 > Watching a model learn — epoch by epoch, loss goes down, intelligence goes up.
