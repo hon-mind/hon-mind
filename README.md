@@ -104,7 +104,7 @@ me.say_hi()
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hon-mind&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&hide_border=true&radius=8" width="98%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=honore-models&theme=github-compact&bg_color=0d1117&color=58a6ff&line=3fb950&point=58a6ff&hide_border=true&radius=8" width="98%" alt="Contribution Graph"/>
 
 </div>
 
@@ -114,7 +114,7 @@ me.say_hi()
 
 <div align="left">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hon-mind&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=honore-models&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies"/>
 
 </div>
 
